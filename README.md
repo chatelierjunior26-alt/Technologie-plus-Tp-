@@ -29,3 +29,4 @@ Must have
 Prototype Figma
 
 <img src="https://github.com/chatelierjunior26-alt/Technologie-plus-Tp-/blob/main/iPhone%2016%20Pro%20-%201.pngraw=true" with=200>
+<img src="https://github.com/chatelierjunior26-alt/Technologie-plus-Tp-/blob/main/iPhone%2016%20Pro%20-%202.png?raw=true" with=200>
