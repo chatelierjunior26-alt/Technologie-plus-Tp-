@@ -36,3 +36,5 @@ Prototype Figma
 <img src="https://github.com/chatelierjunior26-alt/Technologie-plus-Tp-/blob/main/iPhone%2016%20Pro%20-%206.png?raw=true" with=200>
 <img src="https://github.com/chatelierjunior26-alt/Technologie-plus-Tp-/blob/main/iPhone%2016%20Pro%20-%207.png?raw=true" with=200>
 <img src="https://github.com/chatelierjunior26-alt/Technologie-plus-Tp-/blob/main/iPhone%2016%20Pro%20-%207.png?raw=true" with=200>
+<img src="https://github.com/chatelierjunior26-alt/Technologie-plus-Tp-/blob/main/iPhone%2016%20Pro%20-%209.png?raw=true" with=200>
+<img src="https://github.com/chatelierjunior26-alt/Technologie-plus-Tp-/blob/main/iPhone%2016%20Pro%20-%2010.png?raw=true" with=200>
