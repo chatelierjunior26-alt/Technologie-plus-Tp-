@@ -6,15 +6,15 @@ Membres du groupe
 CHATELIER Junior
 CHARLESTON Wiliamson Erady
 PIERRE Marc-Lucson
-User Stories 
-Must have 
- L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
+#User Stories 
+#Must have 
+- {x} L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
  L’utilisateur peut effectuer des achats sur l'application.
  L’utilisateur peut recevoir une notification quand il a fait un achat sur le market.
  L’utilisateur peut visualiser nos accessoires et matériels dans la page d'acceuil.
  L'utilisateur peut se deconnecter de l'application.
  L'utilisateur peut supprimer son compte. 
- Maybe
+ #Maybe
  L’utilisateur peut confirmer son achat à l'aide de Moncash, Natcash et Cash App.
  L’utilisateur peut modifier ou supprimer s'il a fait une erreur dans ses achats à l'aide d'une boutton de retour.
  L’utilisateur peut mettre ses produits sélectionner dans un pannier qu'on a placé pour ses achats.
