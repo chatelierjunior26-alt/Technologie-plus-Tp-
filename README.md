@@ -8,7 +8,7 @@ CHARLESTON Wiliamson Erady
 PIERRE Marc-Lucson
 #User Stories 
 #Must have 
-- {x} L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
+- [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
  L’utilisateur peut effectuer des achats sur l'application.
  L’utilisateur peut recevoir une notification quand il a fait un achat sur le market.
  L’utilisateur peut visualiser nos accessoires et matériels dans la page d'acceuil.
